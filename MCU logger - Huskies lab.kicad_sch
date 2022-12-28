@@ -1,5 +1,21 @@
 (kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 792ea369-99fe-4243-bc65-8d315a4e593d)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (title_block
+    (title "MCU Datalogger - by Huskies' Lab")
+    (date "2022-12-28")
+    (rev "V1.0.0")
+    (company "Designed by Alfonso Pinzon @luis.p.19")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
